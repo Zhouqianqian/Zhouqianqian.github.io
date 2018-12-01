@@ -27,7 +27,7 @@ My job was to survey existing methods for decision and planning methods for auto
 
 <img width="50%" height="50%" src="uisee1.jpg" />
 
-<img  width="100px" height="100px" src="uisee2.jpg" />
+<img class=".project-picture" src="uisee2.jpg" />
 
 
 2. **Development of fuzzy brain emotional learning (FBEL) neural networks and application on control, classification and adaptive filtering systems**
