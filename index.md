@@ -25,9 +25,13 @@ I participated in the Robotics Lab in my undergraduate school and did some inter
 My job was to survey existing methods for decision and planning methods for autonomous cars and develop a model to decide whether lane changing is allowed. I used a gap model and a model based on finite state machine.[Planning & Decision-Making Overview](Planning & Decision-Making Overview.png)
 
 
-<img class="project-picture" src="uisee1.jpg" />
+<div class="project-picture">
+<img src="uisee1.jpg" />
+</div>
 
-<img class="project-picture" src="uisee2.jpg" />
+<div class="project-picture">
+<img src="uisee2.jpg" />
+</div>
 
 
 2. **Development of fuzzy brain emotional learning (FBEL) neural networks and application on control, classification and adaptive filtering systems**
