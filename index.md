@@ -5,19 +5,43 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="sherlock.jpg">
+I am currently a master student in Computer Technology in Xiamen University and I am applying Ph.D. programs in USA. I received the B.E. degree in Communication Engineering in Zhengzhou University in 2016.
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+I participated in the Robotics Lab in my undergraduate school and did some interesting projects. My currently research interests focus on decision and planning for autonomous vehicles, reinforcement learning (RL) and control on mobile robots. It is still challenging to make auto-cars and mobile robots travel in uncertain environment, traditional methods are based on detailed description of the environment, RL enables agents to learn from interacting with the environment, but this trial and error method is inefficient and unsafe, so it is necessary to propose modifications.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 
-## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. Qianqian Zhou, Fei Chao, and Chih-Min Lin: Intelligent Wavelet Elman Fuzzy Brain Emotional Learning Control for Robotic Systems. NEURAL COMPUTING & APPLICATIONS  (under review IF 4.213)
+2. Qianqian Zhou, Fei Chao, and Chih-Min Lin: A Functional- link-based Fuzzy Brain Emotional Learning Network for Breast Tumor Classification and Chaotic System Synchronization. International Journal of Fuzzy Systems: 1-17. 2017（IF 2.39）
+3. Qianqian Zhou, Chih-Min Lin, Fei Chao: Adaptive Noise Cancelation using Fuzzy Brain Emotional Learning Network, UK Workshop on Computational Intelligence, 2017
+
+
+## Projects & Experiences
+1. **Decision and planning algorithm for autonomous cars**
+
+My job was to survey existing methods for decision and planning methods for autonomous cars and develop a model to decide whether lane changing is allowed. I used a gap model and a model based on finite state machine.
+<img class="profile-picture" src="Planning & Decision-Making Overview.png">
+<img class="profile-picture" src="uisee1.jpg">
+<img class="profile-picture" src="uisee2.jpg">
+
+2. **Development of fuzzy brain emotional learning (FBEL) neural networks and application on control, classification and adaptive filtering systems**
+
+This is a National Natural Science Foundation Project in my graduate school. I developed modified FBEL networks for robot trajectory tracking and nonlinear systems.
+<img class="profile-picture" src="xmu1.jpg">
+<img class="profile-picture" src="xmu2.jpg">
+<img class="profile-picture" src="xmu3.jpg">
+
+3. **End-to-end robot path planning based on deep reinforcement learning**
+
+I simulated end-to-end robotic path planning on ROS and V-rep using Deep Q-learning Network.
+<img class="profile-picture" src="dqn.jpg">
+
+4. **Applied adaptive membership function fuzzy control system to the control of bridge crane**
+
+
 
 ## Typography
 
@@ -39,7 +63,4 @@ Here is a blockquote
 
 > To a great mind, nothing is little
 
-## References
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
