@@ -25,26 +25,26 @@ I participated in the Robotics Lab in my undergraduate school and did some inter
 My job was to survey existing methods for decision and planning methods for autonomous cars and develop a model to decide whether lane changing is allowed. I used a gap model and a model based on finite state machine.[Planning & Decision-Making Overview](Planning & Decision-Making Overview.png)
 
 
-<img width="50%" height="50%" src="uisee1.jpg" />
+<img class="project-picture" src="uisee1.jpg" />
 
-<img class=".project-picture" src="uisee2.jpg" />
+<img class="project-picture" src="uisee2.jpg" />
 
 
 2. **Development of fuzzy brain emotional learning (FBEL) neural networks and application on control, classification and adaptive filtering systems**
 
 This is a National Natural Science Foundation Project in my graduate school. I developed modified FBEL networks for robot trajectory tracking and nonlinear systems.
 
-<img  src="xmu1.jpg">
+<img class="project-picture"  src="xmu1.jpg">
 
-<img  src="xmu2.jpg">
+<img  class="project-picture" src="xmu2.jpg">
 
-<img  src="xmu3.jpg">
+<img  class="project-picture" src="xmu3.jpg">
 
 3. **End-to-end robot path planning based on deep reinforcement learning**
 
 I simulated end-to-end robotic path planning on ROS and V-rep using Deep Q-learning Network.
 
-<img src="dqn.jpg">
+<img  class="project-picture" src="dqn.jpg">
 
 4. **Applied adaptive membership function fuzzy control system to the control of bridge crane**
 
