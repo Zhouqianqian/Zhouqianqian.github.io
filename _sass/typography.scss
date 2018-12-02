@@ -69,6 +69,7 @@
             padding: 0;
             margin: 0;
         }
+		p.normal {font-style:normal;}
         @media (max-width: $small-width) {
             img {
                 margin-top: -5px;
