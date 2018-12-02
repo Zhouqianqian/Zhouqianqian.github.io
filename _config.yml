@@ -1,6 +1,6 @@
-title: Researcher
-#url: "https://ankitsultana.com"
-#baseurl: "/researcher"
+title: Qianqian Zhou
+#url: "https://qianqianzhou.com"
+#baseurl: "/qianqianzhou"
 
 markdown: kramdown
 
@@ -8,7 +8,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/Zhouqianqian"
-footer_text: "Page design by Ankit Sultana"
+footer_text: "Page design by Qianqian Zhou"
 
 sass:
     style: compressed
@@ -19,3 +19,5 @@ nav:
    link: "/"
  - name: "Contact"
    link: "contact"
+ - name: "Resume"
+   link: "CV-Qianqian Zhou.pdf"

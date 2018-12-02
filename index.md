@@ -55,4 +55,14 @@ I stayed in the Robotics Lab in my undergraduate school for about a year and a h
 <img src="zzu2.png" />
 <img src="zzu3.jpg" />
 
+## Education
+2012.9~2016.7 Zhengzhou University 
+
+GPA 3.3/4, Major GPA 3.7/4, Ranking 4/98
+
+---
+2016.9~present Xiamen University
+
+ GPA 89.4/100, Ranking 1/32
+
 
