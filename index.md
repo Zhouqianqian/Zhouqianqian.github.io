@@ -24,10 +24,8 @@ I participated in the Robotics Lab in my undergraduate school and did some inter
 
 My job was to survey existing methods for decision and planning methods for autonomous cars and develop a model to decide whether lane changing is allowed. I used a gap model and a model based on finite state machine.[Planning & Decision-Making Overview](Planning & Decision-Making Overview.png)
 
-
-<div class="project-picture">
 <img src="uisee.jpg" />
-</div>
+
 
 
 
