@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="selfi.jpg">
 Hi, My name is Qianqian Zhou, I am currently a master student in Computer Technology in Xiamen University, China, and I am applying Ph.D. programs in USA. I received the B.E. degree in Communication Engineering in Zhengzhou University in 2016.
 
 I joined the Robotics Lab in my undergraduate school and did some interesting projects. My currently research interests focus on decision and planning for autonomous vehicles, reinforcement learning (RL) and control on mobile robots. It is still challenging to make auto-cars and mobile robots travel in uncertain environment, traditional methods are based on detailed description of the environment, RL enables agents to learn from interacting with the environment, but this trial and error method is inefficient and unsafe, so it is necessary to propose modifications.
@@ -50,24 +50,7 @@ I simulated end-to-end robotic path planning on ROS and V-rep using Deep Q-learn
 
  **5. Some interesting projects in Zhengzhou University**
 
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
+<img src="zzu2.png" />
+<img src="zzu3.jpg" />
 
 
