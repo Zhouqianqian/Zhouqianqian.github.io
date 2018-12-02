@@ -53,6 +53,7 @@ This is the first time I got involved with doing research, fuzzy control was a t
 
 I stayed in the Robotics Lab in my undergraduate school for about a year and a half and did some interesting projects and also participated the Robotics Competition. The following pictures show modularized robotic experimental cases I designed with my friends for beginners learning robots, we only left inputs and outputs so students would not stuck in some details at beginning.
 <img src="zzu2.png" />
+---
 <img src="zzu3.jpg" />
 
 ## Education
