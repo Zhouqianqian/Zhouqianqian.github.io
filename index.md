@@ -26,29 +26,22 @@ My job was to survey existing methods for decision and planning methods for auto
 
 
 <div class="project-picture">
-<img src="uisee1.jpg" />
+<img src="uisee.jpg" />
 </div>
 
-<div class="project-picture">
-<img src="uisee2.jpg" />
-</div>
 
 
 2. **Development of fuzzy brain emotional learning (FBEL) neural networks and application on control, classification and adaptive filtering systems**
 
 This is a National Natural Science Foundation Project in my graduate school. I developed modified FBEL networks for robot trajectory tracking and nonlinear systems.
 
-<img class="project-picture"  src="xmu1.jpg">
 
-<img  class="project-picture" src="xmu2.jpg">
-
-<img  class="project-picture" src="xmu3.jpg">
 
 3. **End-to-end robot path planning based on deep reinforcement learning**
 
 I simulated end-to-end robotic path planning on ROS and V-rep using Deep Q-learning Network.
 
-<img  class="project-picture" src="dqn.jpg">
+
 
 4. **Applied adaptive membership function fuzzy control system to the control of bridge crane**
 
