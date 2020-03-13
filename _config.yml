@@ -21,3 +21,4 @@ nav:
    link: "contact"
  - name: "Resume"
    link: "CV-Qianqian Zhou.pdf"
+theme: jekyll-theme-cayman
